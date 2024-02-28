@@ -1,0 +1,48 @@
+{
+  "students": [
+    {
+      "name": "John Doe",
+      "username": "johndoe",
+      "email": "johndoe@gmail.com",
+      "group": "React N32",
+      "id": "46138"
+    },
+    {
+      "name": "Abduhakimoff",
+      "username": "Aziz",
+      "email": "dasdasd@gmail.com",
+      "group": "React N25",
+      "id": "5718"
+    },
+    {
+      "id": "0b05",
+      "name": "John Doe",
+      "email": "tim@gmail.com",
+      "username": "johndoe",
+      "group": "React N32"
+    },
+    {
+      "id": "3348",
+      "name": "akobir",
+      "email": "maxmaraimovakobir04@email.com",
+      "username": "akobirshokh",
+      "group": "React N32"
+    },
+    {
+      "id": "10c4",
+      "name": "akobir",
+      "email": "maxmaraimovakobir2424@gmail.com",
+      "username": "akobirshoh",
+      "group": "React N32"
+    }
+  ],
+  "teachers": [
+    {
+      "id": "4531",
+      "name": "akobir",
+      "email": "maxmaraimovakobir04@email.com",
+      "username": "ID9232",
+      "group": "React N32"
+    }
+  ]
+}
